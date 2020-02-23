@@ -8,8 +8,10 @@ This is an example to show differnt parts of the Git repo
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Main purpose is sample training. Sample website with plenty of files for demos
 
 ## Deployment
+
+Simple web project to deploy to any main server
 
 ## How To Contribute
