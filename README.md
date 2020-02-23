@@ -16,5 +16,7 @@ Simple web project to deploy to any main server
 
 ## How To Contribute
 
+PLease folk this repo and then PULL Requests for review
+
 ### Copyright
 2020 Git Training
