@@ -15,3 +15,6 @@ Main purpose is sample training. Sample website with plenty of files for demos
 Simple web project to deploy to any main server
 
 ## How To Contribute
+
+### Copyright
+2020 Git Training
