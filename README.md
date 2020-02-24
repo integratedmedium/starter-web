@@ -20,4 +20,4 @@ Simple web project to deploy to any main server
 PLease folk this repo and then PULL Requests for review
 
 ### Copyright
-2020 Git Training
+2020 Git Training. ALL rights
