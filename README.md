@@ -9,7 +9,7 @@ cool stuff we are doing here
 
 ## Purpose
 
-Main purpose is sample training. Sample website with plenty of files for demos
+Main purpose is sample training. Sample website with plenty of files for demos - HOT FIX after stash
 
 ## Deployment
 
